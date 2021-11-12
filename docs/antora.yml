@@ -1,0 +1,5 @@
+name: quarkus-cef
+title: Quarkus - Cef
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
