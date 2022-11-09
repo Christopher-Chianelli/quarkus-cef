@@ -5,7 +5,7 @@
   <parent>
     <groupId>io.quarkiverse</groupId>
     <artifactId>quarkiverse-parent</artifactId>
-    <version>7</version>
+    <version>11</version>
   </parent>
   <artifactId>quarkus-cef-parent</artifactId>
   <version>1.0.0-SNAPSHOT</version>
